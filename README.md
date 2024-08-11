@@ -1,2 +1,4 @@
 # trivia-app
-app to train using AWS Cloud regarding AWS DevOps Certificate
+
+open-source app taken from the AWS DevOps certificate to deploy in the cloud (mainly to train deploying stuff on the AWS cloud)
+
